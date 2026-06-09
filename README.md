@@ -10,7 +10,9 @@ For many years, this was true. Simple models like ARIMA and seasonal naïve beat
 But something changed recently. New AI models called **foundation models** are pre-trained on millions of time series. They learn general patterns from huge amounts of data. Then they can forecast a new series without any training - this is called **zero-shot**.
 
 A recent study on agricultural prices found that foundation models break the old rule.
-They beat simple models. This project tests if the same is true on different datasets.
+They beat simple models. This project tests if the same is true on different datasets. 
+
+> Kory Kantenga, Neil Kingsland, Ethan Ligon (2026). *The Promise of Time-Series Foundation Models for Agricultural Forecasting: Evidence from Commodity Prices.* arXiv:2601.06371. https://arxiv.org/abs/2601.06371
 
 ---
 
